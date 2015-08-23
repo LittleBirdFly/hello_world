@@ -1,2 +1,3 @@
 # hello_world
 i am Stranger here
+i like struts ,spring, hibernate !!   and so on .....
